@@ -22,6 +22,7 @@ The following files correspond to results of a single Monte-Carlo trial:
 
 *_1.txt takes a cosmic ray efficiency xi_CR = 0.1 and alpha = 4.25 
 *_2.txt takes a cosmic ray efficiency xi_CR = 0.05 and alpha = 4.25 
+*_3.txt takes a cosmic ray efficiency xi_CR = 0.1 and alpha = 4.1
 
 
 
